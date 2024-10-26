@@ -10,6 +10,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Footer from './Components/Footer';
 import Home from './HomeComponent/Home';
 import Shlokas from './Shlokas/Shlokas';
+import Parigara from './ParigaraTemples/Parigara';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/shlokas" element={<Shlokas />} />
+          <Route path="/Parigara" element={<Parigara />} />
         </Routes>
       {/* </div> */}
 

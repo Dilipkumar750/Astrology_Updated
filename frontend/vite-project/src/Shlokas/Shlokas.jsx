@@ -3,7 +3,7 @@ import Navbar from '../Components/Navbar';
 import background from '../assets/shlokas_bg.jpg';
 import guru from '../assets/guru.jpg';
 import lakshmi from '../assets/lakshmi.jpg';
-import vinayaga from '../assets/vinayaga.jpg';
+import vinayaga from '../assets/vinayaga.png';
 import muruga from '../assets/muruga.jpg';
 import krishna from '../assets/krishna.jpg';
 
